@@ -1,6 +1,6 @@
-# UG_05
 ## RedPen
-Redpen is an android application that is in development for the COM S 309 course project in the fall 2020 semester. The application will be a place for students to access their grades and receive feedback from their professors. More information about the project will be available as the semester progresses.
+Redpen is an android application that was in development for the COM S 309 course project in the fall 2020 semester. The application intended to be a place for students to access their grades and receive feedback from their professors.
+The frontend portion of the project was not completed. However, the backend has been implemented with all of the features our group originally sought to build at the start of the semester.
 ## Group Members:
 #### Backend:
 * [Christian Lisle](http://christianlisle.com/)
@@ -8,5 +8,3 @@ Redpen is an android application that is in development for the COM S 309 course
 #### Frontend:
 * Jonah Decker
 * Victoria
-
-[Project Proposal](https://canvas.iastate.edu/groups/134229/pages/project-proposal)
